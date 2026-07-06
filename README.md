@@ -2,6 +2,8 @@
 An enterprise-grade Power BI dashboard transforming multi-table commercial sales data into interactive business insights.
 
 <img width="623" height="337" alt="Global Sales" src="https://github.com/user-attachments/assets/39dedaf6-0ee5-4753-b60e-5b0a609d708c" />
+
+
 ## 🛠️ Technical Workflow & Architecture
 
 ### 1. Data Extract, Transform, & Load (ETL)
@@ -28,7 +30,7 @@ A heavy emphasis was placed on dashboard readability, scannability, and corporat
 * **Units Sold by Category (Donut Chart):** Visualizes the structural volume distribution across key inventory segments.
 * **Revenue Breakdown by Category (Funnel Chart):** Tracks the progressive monetary value contribution per product category.
 * **Monthly Sales Trend (Line Chart):** Captures fiscal seasonality and macro-level revenue trajectory over the year.
-* **Weekly Revenue Trends (Multi-Line Chart & Slicer):** Offers operational deep-dives by mapping daily city performance against a dynamic weekday filter.
+* **Weekly Revenue Trends (Multi Line Chart & Slicer):** Offers operational deep dives by mapping daily city performance against a dynamic weekday filter.
 
 ---
 
